@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech in general
 - 🌱 I’m currently learning about the world
 - 💞️ I’m looking to collaborate on any project that catches an eye
-- 📫 How to reach me : tg -> t.me/chruxAdmin; ig -> @falah.ahmed.kp;
+- 📫 How to reach me : tg -> <a href='https://t.me/chruxAdmin'>chruxAdmin</a>; ig -> <a href='https://www.instagram.com/falah.ahmed.kp/'>falah.ahmed.kp</a>;
 - ⚡ Fun fact: still thinking...
 
 <!---
